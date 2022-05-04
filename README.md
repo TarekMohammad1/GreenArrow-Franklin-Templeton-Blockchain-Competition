@@ -19,7 +19,7 @@ Market players:
 What is GreenArrow offering?
 - GreenArrow is a Defi protocol to be built over the Ethereum network with a possibility for a side chain, Polygon or Arbitrum. GreenArrow is LENDING money to STARTUPS in the form of CREDIT CARDs or LOANs and PROVIDING RETURN for VCs to supply LIQUIDITY to the protocol.
 
-![plot]("C:\Users\Tarek M\Desktop\Startup\GreenArrow\Screenshot 2022-04-05 175246.png")
+![GreenArrow General Protocol Workflow:]("/")
 
 
 
