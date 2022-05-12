@@ -34,9 +34,9 @@ What is GreenArrow offering?
   <img src="https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Main%20Funcs.drawio.png" width="400" height="250" title="Venture Debt Structure">
 
 
-Micro Hedge funds and small VCs flow   |  Startups Flow
-:-------------------------:|:-------------------------:
-![](https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Stake.drawio.png)  |  ![](https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Acquire.drawio.png)
+Micro Hedge funds and small VCs flow   |  Startups Flow  | Fund DAO
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Stake.drawio.png)  |  ![](https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Acquire.drawio.png) | ![](https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Fund%20DAO.drawio.png)
 
 
 Decentralized Autonomous Organization (DAO):
