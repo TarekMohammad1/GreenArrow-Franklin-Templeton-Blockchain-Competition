@@ -25,6 +25,19 @@ What is GreenArrow offering?
   <img src="https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Staking%20Pool%20for%20Liquidity%20Providers/Diagram_GreenArrow_Process.png" alt="GreenArrow Workflow" width="500" height="500" title="GreenArrow Workflow">
 
 
+- Protocol Architecture:
+
+  <img src="https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Protocol%20Players.drawio.png" alt="Protocol Architecture" width="500" height="250" title="Protocol Architecture">
+  
+- Venture Debt Structure:
+
+  <img src="https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Main%20Funcs.drawio.png" width="400" height="250" title="Venture Debt Structure">
+
+
+Micro Hedge funds and small VCs flow   |  Startups Flow
+:-------------------------:|:-------------------------:
+![](https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Stake.drawio.png)  |  ![](https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/Acquire.drawio.png)
+
 
 Decentralized Autonomous Organization (DAO):
 
@@ -36,6 +49,11 @@ Types of DAOs:
 | ---------- | ------------------- | ----------------------------- |
 | Gas Costs  | More Expensive      | Cheaper                       |
 | Components | Just the blockchain | An oracle or trusted multisig |
+
+
+- GreenArrow's DAOs:
+
+<img src="https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Appendix/DAO%20struct.drawio.png" width="500" height="250" title="Protocol Architecture">
 
 Staking:
 
