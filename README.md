@@ -17,7 +17,9 @@ Market players:
 | `Founders` | <ul><li>Inefficient Funding</li><li>Unbanked Startups</li><li>Equity Dilution</li><li>Inaccessibility Credit line</li></ul> | Instant access to credit via smart contracts |
 
 What is GreenArrow offering?
-- GreenArrow is a Defi protocol to be built over the Ethereum network with a possibility for a side chain, Polygon or Arbitrum. GreenArrow is LENDING money to STARTUPS in the form of CREDIT CARDs or LOANs and PROVIDING RETURN for VCs to supply LIQUIDITY to the protocol.
+- GreenArrow is a Defi protocol to be built over the Ethereum network. GreenArrow is LENDING money to STARTUPS in the form of CREDIT CARDs or LOANs and PROVIDING RETURN for VCs to supply LIQUIDITY to the protocol.
+
+- The protocol is deployed to exclusively serve investors (referred to here as liquidity providers or LPs)— as in micro hedge funds and small Venture Capital firms — and startups (Borrowers). Binary choice is given to LPs to join one of the two specific end-target Decentralized Autonomous organizations (DAOs) or both. The first DAO acts as a Venture Debt, i.e., liquidity pool with more in-depth functionalities. LPs provides liquidity by staking funds using the protocol stablecoin that is pegged to set of Stablecoins - DAI, USDC, or USDT — in a pool contract. Then, from the same pool, startups can borrow with an algorithmically derived interest rates, at specified reserve levels. In addition, part of the funds is allocated to the Crypto Card, where startups can pay for day-to-day activities. The second DAO is an equity financing DAO, replacing the traditional fundraising scheme with a direct contribution by LPs in funding the startups. Startups are matched with members of the DAO to receive requested funds, with equity and terms deployed by smart contracts and agreed upon via an off chain voting mechanism.
 
 
   <img src="https://github.com/TarekMohammad1/GreenArrow-Franklin-Templeton-Blockchain-Competition/blob/main/Staking%20Pool%20for%20Liquidity%20Providers/Diagram_GreenArrow_Process.png" alt="GreenArrow Workflow" width="500" height="500" title="GreenArrow Workflow">
